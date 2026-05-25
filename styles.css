@@ -26,3 +26,20 @@
   .top-social{width:42px;height:42px;margin-left:12px}
   .top-social img{width:30px;height:30px}
 }
+
+
+/* SEO / SEM landing-page additions */
+.hero-actions{display:flex;gap:14px;flex-wrap:wrap;align-items:center}
+.button.secondary{border-color:rgba(214,168,79,.45);color:#5f5b58;background:rgba(255,255,255,.32)}
+.seo-intro{margin:0 5vw 90px;padding:70px 6vw;background:#fff;border:1px solid var(--line);border-radius:34px;text-align:center}
+.seo-intro h2,.services h2,.faq h2{font-family:Georgia,serif;font-size:clamp(30px,3.6vw,54px);font-weight:400;line-height:1.08;margin:0 auto 22px;color:#34302c;max-width:980px}
+.seo-intro p:not(.eyebrow){font-size:18px;line-height:1.8;color:var(--muted);max-width:900px;margin:0 auto 28px}
+.keyword-pills{display:flex;justify-content:center;gap:12px;flex-wrap:wrap}
+.keyword-pills span{border:1px solid var(--line);border-radius:999px;padding:10px 15px;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:#6b625b;background:var(--paper)}
+.services h2{margin:0 0 34px;max-width:900px}
+.faq{padding:85px 5vw;background:var(--paper)}
+.faq-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:28px}
+.faq-grid div{background:#fff;border:1px solid var(--line);border-radius:22px;padding:30px}
+.faq-grid h3{font-family:Georgia,serif;font-weight:400;font-size:26px;margin:0 0 12px;color:#34302c}
+.faq-grid p{color:var(--muted);line-height:1.7;margin:0}
+@media(max-width:900px){.seo-intro{margin:0 20px 70px;padding:48px 24px}.faq-grid{grid-template-columns:1fr}.hero-actions{align-items:stretch}.hero-actions .button{text-align:center}}

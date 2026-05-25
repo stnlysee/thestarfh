@@ -1,0 +1,36 @@
+SEO / SEM updates added in this version
+
+SEO improvements:
+- Updated page title for Singapore brand activation and immersive experience searches.
+- Added meta description, keywords, canonical URL, Open Graph and Twitter preview tags.
+- Added LocalBusiness schema markup with The StarFH contact details.
+- Improved H1 and visible copy with targeted phrases such as brand activation, immersive brand experience, event production and Singapore.
+- Added a short service intro section and FAQ section to give Google more relevant page content.
+- Added robots.txt and sitemap.xml.
+
+SEM readiness:
+- Hero call-to-action now includes a project enquiry email subject.
+- Added a phone CTA for faster conversion.
+- Landing-page copy is clearer for paid traffic from Google Ads.
+
+Recommended Google Ads keywords:
+- brand activation agency Singapore
+- event production Singapore
+- immersive experience Singapore
+- experiential marketing Singapore
+- product launch event Singapore
+- retail pop up activation Singapore
+- creative event agency Singapore
+
+Recommended negative keywords:
+- job
+- career
+- course
+- free
+- template
+- DIY
+- internship
+
+Important:
+- Change the canonical URL and sitemap URL if the final domain is not https://www.the-starfh.com/.
+- Test all links after uploading to hosting.
