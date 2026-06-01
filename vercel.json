@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    { "source": "/index.html", "destination": "/", "permanent": true },
+    { "source": "/(.*)", "has": [{ "type": "host", "value": "the-starfh.com" }], "destination": "https://www.the-starfh.com/$1", "permanent": true }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        { "key": "X-Robots-Tag", "value": "index, follow" }
+      ]
+    }
+  ]
+}
